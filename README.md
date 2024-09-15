@@ -1,56 +1,11 @@
-✨Nome: Athos Guilherme de França Pereira
+###Calculadora de Operações Básicas em Python
 
-✨Projeto: Calculadora de operações simples
+Este é um projeto de calculadora desenvolvido em Python. A calculadora executa funcionalidades básicas e funcionais de calculo. adição, subtração, multiplicação edivisão. É uma excelente oportunidade para praticar conceitos fundamentais da linguagem python, como funções, estruturas de controle e manipulação de entrada e saída.
 
-✨funcionalidade: soma, adição, subtração, divisão e multiplicação.
+##Como Usar
+1. Certifique-se de ter o Python instalado em seu sistema.
+2. Baixe o arquivo `calculadora.py`.
+3. Abra o terminal e navegue até o diretório onde o arquivo está localizado.
+4. Execute o comando `python calculadora.py`.
 
-✨Neste projeto envolve um pouco de tudo que vi hoje em Phyton, muito praseroso e dou total atribuição aos professores de BIG DATA.
-<!---
-def add(x, y):
-    return x + y
-
-def subtract(x, y):
-    return x - y
-
-def multiply(x, y):
-    return x * y
-
-def divide(x, y):
-    if y == 0:
-        return "Erro! Divisão por zero."
-    return x / y
-
-def main():
-    while True:
-        print("Selecione a operação:")
-        print("1. Adição")
-        print("2. Subtração")
-        print("3. Multiplicação")
-        print("4. Divisão")
-        print("5. Sair")
-
-        escolha = input("Digite sua escolha (1/2/3/4/5): ")
-
-        if escolha == '5':
-            print("Saindo...")
-            break
-
-        if escolha in ['1', '2', '3', '4']:
-            num1 = float(input("Digite o primeiro número: "))
-            num2 = float(input("Digite o segundo número: "))
-
-            if escolha == '1':
-                print(f"Resultado: {num1} + {num2} = {add(num1, num2)}")
-            elif escolha == '2':
-                print(f"Resultado: {num1} - {num2} = {subtract(num1, num2)}")
-            elif escolha == '3':
-                print(f"Resultado: {num1} * {num2} = {multiply(num1, num2)}")
-            elif escolha == '4':
-                print(f"Resultado: {num1} / {num2} = {divide(num1, num2)}")
-        else:
-            print("Escolha inválida. Tente novamente.")
-
-if __name__ == "__main__":
-    main()
-
---->
+A calculadora atinge o objetivo de fazer calculos simples e implementando tudo que aprendi em Phyyton. 
